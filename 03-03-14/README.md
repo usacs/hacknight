@@ -9,3 +9,5 @@ be done by running: `pip install requests flask`.
 
 The slides can be found
 [here](https://speakerdeck.com/eddiezane/http-requests-and-apis).
+
+Sign up for a free SendGrid account [here](http://hack.sendgrid.com/).
